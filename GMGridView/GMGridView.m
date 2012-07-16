@@ -492,7 +492,6 @@ static const UIViewAnimationOptions kDefaultAnimationOptions = UIViewAnimationOp
                     return NO;
         }
     }
-    
     return YES;
 }
 
